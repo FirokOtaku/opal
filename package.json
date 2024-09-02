@@ -1,0 +1,28 @@
+{
+  "name": "lib-opal",
+  "version": "0.2.0",
+  "description": "Personal Javascript lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no tests needed && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirokOtaku/opal.git"
+  },
+  "keywords": [
+    "lib"
+  ],
+  "author": "Firok",
+  "license": "Mulan PSL v2",
+  "bugs": {
+    "url": "https://github.com/FirokOtaku/opal/issues"
+  },
+  "homepage": "https://github.com/FirokOtaku/opal#readme",
+  "files": [
+    "readme.md",
+    "package.json",
+    "index.js",
+    "lib/**"
+  ]
+}
