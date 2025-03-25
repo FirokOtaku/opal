@@ -32,3 +32,17 @@
     width: 100%;
     max-width: 100%;
 }
+
+.no-width {
+    width: 0;
+}
+.no-height {
+    height: 0;
+}
+
+.animated-width {
+    transition: width var(--opal-duration, 0.4s);
+}
+.animated-height {
+    transition: height var(--opal-duration, 0.4s);
+}
